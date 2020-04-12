@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InformasiKomikSijuki</string>
+    <string name="daftar_komik">Daftar Komik</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="abaout_us">About Us</string>
+    <string name="list">List</string>
+    <string name="this_is_detailactivity">detailactivity</string>
+    <string name="Putra_Budiansyah">putrabudiansyah</string>
+</resources>
